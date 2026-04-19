@@ -1,0 +1,70 @@
+# Repo layout
+# This repo contains multiple folders at the root; we only track the /epicite subproject.
+/*
+!.gitignore
+!epicite/
+
+# -------------------------
+# Generic ignores (apply under /epicite too)
+# -------------------------
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# ML / experiment artifacts
+# -------------------------
+wandb/
+mlruns/
+runs/
+lightning_logs/
+
+*.log
+
+# Common model / artifact formats
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.joblib
+*.pkl
+
+# Hugging Face Trainer outputs
+**/checkpoint-*/
+**/trainer_state.json
+**/training_args.bin
+
+# -------------------------
+# Project-specific: ignore large generated data/models
+# -------------------------
+# Keep annotations if you want to version them; raw/processed are typically regenerated.
+epicite/data/raw/
+epicite/data/processed/
+epicite/data/interim/
+
+# Model checkpoints and other heavy outputs
+models/

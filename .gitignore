@@ -1,8 +1,4 @@
-# Repo layout
-# This repo contains multiple folders at the root; we only track the /epicite subproject.
-/*
-!.gitignore
-!epicite/
+# Track the project by default. Ignore only generated artifacts and local tooling files.
 
 # -------------------------
 # Generic ignores (apply under /epicite too)
@@ -22,6 +18,7 @@ htmlcov/
 venv/
 ENV/
 env/
+.env
 
 # Jupyter
 .ipynb_checkpoints/
@@ -62,9 +59,11 @@ lightning_logs/
 # Project-specific: ignore large generated data/models
 # -------------------------
 # Keep annotations if you want to version them; raw/processed are typically regenerated.
-epicite/data/raw/
-epicite/data/processed/
-epicite/data/interim/
+data/raw/
+data/processed/
+data/interim/
+data/external/
 
 # Model checkpoints and other heavy outputs
 models/
+tmp_trainer/

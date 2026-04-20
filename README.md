@@ -142,6 +142,11 @@ SHAP (SHapley Additive exPlanations) values are computed for every prediction, i
 > Last updated — Stage 1 v2 + Stage 2 Late-Fusion
 > Full notebook: [`./notebooks/EpiCite_04_Stage1v2_Stage2_LateFusion-STRIP`](./notebooks/EpiCite_04_Stage1v2_Stage2_LateFusion-STRIP.ipynb)
 
+> **Please note:** All notebooks, `best.pt` files, and experimental results have **not** yet been uploaded as we are currently in a **work-in-progress** state.
+> 
+> * **Final Submission:** All assets will be fully uploaded at the time of the final deadline.
+> * **Current Availability:** The complete implementation and all associated assets are currently stored in **puffer**. Refer to the notebook above to see update till now. 
+
 ---
 
 ### What Changed & Why

@@ -140,7 +140,7 @@ SHAP (SHapley Additive exPlanations) values are computed for every prediction, i
 <summary><h2>🔄 Updates & Progress</h2></summary>
 
 > Last updated — Stage 1 v2 + Stage 2 Late-Fusion
-> Full notebook: [`./notebook/EpiCite_04_Stage1v2_Stage2_LateFusion-STRIP`](./notebook/EpiCite_04_Stage1v2_Stage2_LateFusion-STRIP.ipynb)
+> Full notebook: [`./notebooks/EpiCite_04_Stage1v2_Stage2_LateFusion-STRIP`](./notebooks/EpiCite_04_Stage1v2_Stage2_LateFusion-STRIP.ipynb)
 
 ---
 

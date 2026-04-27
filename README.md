@@ -20,8 +20,8 @@
 ![MCPImpl](./mcp.png) <br>
 - App demo  <br>
 ![App Demo](epicite-app-demo.gif) <br>
-- Presentation Slides
-- Presentation Video
+- [Presentation Slides - PDF](./Presentation EpiCite Final.pdf) 
+- [Presentation Video - Google Drive](https://drive.google.com/file/d/1woLgo2aCHg0nbaSZ0gHbydDrBWvJ-xPl/view?usp=drive_link)
 
 
 <details>

@@ -12,6 +12,12 @@
 
 ---
 
+## Deliverable
+
+![Link to Report - IEEE](./notebooks/epicite_report.pdf)
+![App Demo](epicite-app-demo.gif)
+
+
 <details>
 <summary><h2>📖 Project Description</h2></summary>
 

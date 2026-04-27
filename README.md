@@ -14,10 +14,14 @@
 
 ## Deliverable
 
-![Link to Report - IEEE](./notebooks/epicite_report.pdf) <br>
-MCP Implementation - We tested and created an MCP with three tool calls for our project. This can be added to out of the box software like claude desktop for interaction. Sample output is shown below: 
+- [Link to Report - IEEE - pdf](./notebooks/epicite_report.pdf) <br>
+- [Link to Report - IEEE - tex](./notebooks/epicite-final-report.tex) <br>
+- MCP Implementation - We tested and created an MCP with three tool calls for our project. This can be added to out of the box software like claude desktop for interaction. Sample output is shown below: 
 ![MCPImpl](./mcp.png) <br>
-![App Demo](epicite-app-demo.gif) 
+- App demo  <br>
+![App Demo](epicite-app-demo.gif) <br>
+- Presentation Slides
+- Presentation Video
 
 
 <details>
